@@ -1,5 +1,5 @@
 # HARP
-Gaussian Mixture Model For Phoneme Classification.
+Gaussian Mixture Model For Phoneme Clustering.
 Author: Henry Ndubuaku
 
 ![Alt text](/images/1.png "Diagram")
