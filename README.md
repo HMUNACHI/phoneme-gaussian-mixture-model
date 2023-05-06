@@ -1,4 +1,4 @@
-# HARP: Gaussian Mixture Model For Phoneme Clustering.
+# HARP: A Study of Gaussian Mixture Model In Three-Dimensional Phoneme Clustering.
 Author: Henry Ndubuaku
 
 ![Alt text](/images/1.png "Diagram")
